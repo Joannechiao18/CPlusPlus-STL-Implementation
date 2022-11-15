@@ -1,6 +1,6 @@
 # CPlusPlus-STL-Implementation
 
-![](https://img.shields.io/badge/C++-1.9.1-success)
+![](https://img.shields.io/badge/C++-17-success)
 
 These are the implementations from scratch for the data structures/containers in the C++ Standard Template Library (STL). 
 
