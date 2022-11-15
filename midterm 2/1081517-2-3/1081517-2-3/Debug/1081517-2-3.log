@@ -1,0 +1,7 @@
+﻿  Midterm Exam 2-3.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\Deque - 1081517 - Mid 2.h(356,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\Deque - 1081517 - Mid 2.h(344): message : while compiling class template member function 'deque<Term>::deque(const deque<Term> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\Polynomial - 1081517 - Mid 2.h(54): message : see reference to function template instantiation 'deque<Term>::deque(const deque<Term> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\Polynomial - 1081517 - Mid 2.h(40): message : see reference to class template instantiation 'deque<Term>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\Midterm Exam 2-3.cpp(27): message : see reference to class template instantiation 'Polynomial<deque<Term>>' being compiled
+  1081517-2-3.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\midterm 2\1081517-2-3\Debug\1081517-2-3.exe

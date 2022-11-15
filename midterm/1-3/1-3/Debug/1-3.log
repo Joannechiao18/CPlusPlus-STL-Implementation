@@ -1,0 +1,56 @@
+﻿  Midterm Exam 1-3.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(108,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(104): message : while compiling class template member function 'unsigned short *vector<unsigned short>::insert(const unsigned short *,const unsigned short &)'
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(67): message : see reference to function template instantiation 'unsigned short *vector<unsigned short>::insert(const unsigned short *,const unsigned short &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(65): message : see reference to class template instantiation 'vector<unsigned short>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(53): message : see reference to function template instantiation 'void testHugeInteger<vector<unsigned short>>(std::ofstream &,std::ifstream &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(117,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(119,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(85,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(78): message : while compiling class template member function 'vector<unsigned short>::vector(const vector<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(61): message : see reference to function template instantiation 'vector<unsigned short>::vector(const vector<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(154,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(147): message : while compiling class template member function 'unsigned short *vector<unsigned short>::erase(const unsigned short *)'
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(134): message : see reference to function template instantiation 'unsigned short *vector<unsigned short>::erase(const unsigned short *)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(263,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(75): message : see reference to function template instantiation 'bool operator ==<unsigned int>(const vector<unsigned int> &,const vector<unsigned int> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(74): message : while compiling class template member function 'bool HugeInteger<T>::operator ==(const HugeInteger<T> &) const'
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(100): message : see reference to function template instantiation 'bool HugeInteger<T>::operator ==(const HugeInteger<T> &) const' being compiled
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(53): message : while compiling class template member function 'HugeInteger<T>::HugeInteger(const HugeInteger<T> &)'
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(78): message : see reference to function template instantiation 'HugeInteger<T>::HugeInteger(const HugeInteger<T> &)' being compiled
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\HugeInteger - 1081517 - Mid 1.h(61): message : while compiling class template member function 'HugeInteger<T>::HugeInteger(const T &)'
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(69): message : see reference to function template instantiation 'HugeInteger<T>::HugeInteger(const T &)' being compiled
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Midterm Exam 1-3.cpp(69): message : see reference to class template instantiation 'HugeInteger<T>' being compiled
+          with
+          [
+              T=vector<unsigned int>
+          ]
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(141): warning C4715: 'vector<unsigned int>::insert': not all control paths return a value
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(141): warning C4715: 'vector<unsigned short>::insert': not all control paths return a value
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(160): warning C4715: 'vector<unsigned int>::erase': not all control paths return a value
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\Vector-1081517-Mid - 1.h(160): warning C4715: 'vector<unsigned short>::erase': not all control paths return a value
+  1-3.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\midterm\1-3\Debug\1-3.exe

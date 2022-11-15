@@ -1,0 +1,8 @@
+﻿  Vector-1081517-hw1.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(81,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(86,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(114,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(118,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(119,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw1\Vector-1081517-hw1.cpp(139,38): warning C4018: '<': signed/unsigned mismatch
+  1081517-hw1.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw1\1081517-hw1\Debug\1081517-hw1.exe

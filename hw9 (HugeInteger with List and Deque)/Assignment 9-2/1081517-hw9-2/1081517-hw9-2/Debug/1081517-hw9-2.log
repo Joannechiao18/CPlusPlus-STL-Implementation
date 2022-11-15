@@ -1,0 +1,44 @@
+﻿  Assignment 9-2.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(218,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(210): message : while compiling class template member function 'list<unsigned short>::list(const list<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(88): message : see reference to function template instantiation 'list<unsigned short>::list(const list<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(69): message : see reference to class template instantiation 'list<unsigned short>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(45): message : see reference to class template instantiation 'HugeInteger<list<unsigned short>>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Vector - 1081517 - hw9.h(281,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Vector - 1081517 - hw9.h(277): message : while compiling class template member function 'vector<unsigned short>::vector(const vector<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(88): message : see reference to function template instantiation 'vector<unsigned short>::vector(const vector<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(69): message : see reference to class template instantiation 'vector<unsigned short>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(36): message : see reference to class template instantiation 'HugeInteger<vector<unsigned short>>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(244,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(236): message : while compiling class template member function 'list<unsigned short> &list<unsigned short>::operator =(const list<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(104): message : see reference to function template instantiation 'list<unsigned short> &list<unsigned short>::operator =(const list<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Vector - 1081517 - hw9.h(316,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Vector - 1081517 - hw9.h(312): message : while compiling class template member function 'vector<unsigned short> &vector<unsigned short>::operator =(const vector<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(104): message : see reference to function template instantiation 'vector<unsigned short> &vector<unsigned short>::operator =(const vector<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Vector - 1081517 - hw9.h(562,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(113): message : see reference to function template instantiation 'bool operator ==<int>(const vector<int> &,const vector<int> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(112): message : while compiling class template member function 'bool HugeInteger<vector<int>>::operator ==(HugeInteger<vector<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(192): message : see reference to function template instantiation 'bool HugeInteger<vector<int>>::operator ==(HugeInteger<vector<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(88): message : while compiling class template member function 'HugeInteger<vector<int>>::HugeInteger(const HugeInteger<vector<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(189): message : see reference to function template instantiation 'HugeInteger<vector<int>>::HugeInteger(const HugeInteger<vector<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(134): message : see reference to function template instantiation 'void input<vector<int>>(HugeInteger<vector<int>> [],HugeInteger<vector<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(62): message : see reference to function template instantiation 'void testHugeIntegers<vector<int>>(HugeInteger<vector<int>> [],HugeInteger<vector<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(497,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(113): message : see reference to function template instantiation 'bool operator ==<int>(const list<int> &,const list<int> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(112): message : while compiling class template member function 'bool HugeInteger<list<int>>::operator ==(HugeInteger<list<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(192): message : see reference to function template instantiation 'bool HugeInteger<list<int>>::operator ==(HugeInteger<list<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(88): message : while compiling class template member function 'HugeInteger<list<int>>::HugeInteger(const HugeInteger<list<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(189): message : see reference to function template instantiation 'HugeInteger<list<int>>::HugeInteger(const HugeInteger<list<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(134): message : see reference to function template instantiation 'void input<list<int>>(HugeInteger<list<int>> [],HugeInteger<list<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(74): message : see reference to function template instantiation 'void testHugeIntegers<list<int>>(HugeInteger<list<int>> [],HugeInteger<list<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\List - 1081517 - hw9.h(497,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Deque - 1081517 - hw9.h(645,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(113): message : see reference to function template instantiation 'bool operator ==<int>(const deque<int> &,const deque<int> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(112): message : while compiling class template member function 'bool HugeInteger<deque<int>>::operator ==(HugeInteger<deque<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(192): message : see reference to function template instantiation 'bool HugeInteger<deque<int>>::operator ==(HugeInteger<deque<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\HugeInteger 9-2 - 1081517.h(88): message : while compiling class template member function 'HugeInteger<deque<int>>::HugeInteger(const HugeInteger<deque<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(189): message : see reference to function template instantiation 'HugeInteger<deque<int>>::HugeInteger(const HugeInteger<deque<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(134): message : see reference to function template instantiation 'void input<deque<int>>(HugeInteger<deque<int>> [],HugeInteger<deque<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Assignment 9-2.cpp(86): message : see reference to function template instantiation 'void testHugeIntegers<deque<int>>(HugeInteger<deque<int>> [],HugeInteger<deque<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\Deque - 1081517 - hw9.h(645,40): warning C4018: '<': signed/unsigned mismatch
+  1081517-hw9-2.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw9\Assignment 9-2\1081517-hw9-2\Debug\1081517-hw9-2.exe

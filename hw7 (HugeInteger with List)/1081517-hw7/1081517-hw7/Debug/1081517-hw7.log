@@ -1,0 +1,15 @@
+﻿  Assignment 7.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Vector - 1081517 - hw7.h(386,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Vector - 1081517 - hw7.h(364): message : while compiling class template member function 'vector<unsigned short> &vector<unsigned short>::operator =(const vector<unsigned short> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Vector - 1081517 - hw7.h(334): message : see reference to function template instantiation 'vector<unsigned short> &vector<unsigned short>::operator =(const vector<unsigned short> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\HugeInteger - 1081517 - hw7.h(58): message : see reference to class template instantiation 'vector<unsigned short>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Assignment 7.cpp(36): message : see reference to class template instantiation 'HugeInteger<vector<unsigned short>>' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Vector - 1081517 - hw7.h(632,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\HugeInteger - 1081517 - hw7.h(103): message : see reference to function template instantiation 'bool operator ==<int>(const vector<int> &,const vector<int> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\HugeInteger - 1081517 - hw7.h(102): message : while compiling class template member function 'bool HugeInteger<vector<int>>::operator ==(HugeInteger<vector<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\HugeInteger - 1081517 - hw7.h(182): message : see reference to function template instantiation 'bool HugeInteger<vector<int>>::operator ==(HugeInteger<vector<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\HugeInteger - 1081517 - hw7.h(78): message : while compiling class template member function 'HugeInteger<vector<int>>::HugeInteger(const HugeInteger<vector<int>> &)'
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Assignment 7.cpp(164): message : see reference to function template instantiation 'HugeInteger<vector<int>>::HugeInteger(const HugeInteger<vector<int>> &)' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Assignment 7.cpp(109): message : see reference to function template instantiation 'void input<vector<int>>(HugeInteger<vector<int>> [],HugeInteger<vector<int>> [])' being compiled
+C:\Users\joann\Desktop\林基成作業\108-2\hw7\Assignment 7.cpp(53): message : see reference to function template instantiation 'void testHugeIntegers<vector<int>>(HugeInteger<vector<int>> [],HugeInteger<vector<int>> [])' being compiled
+  1081517-hw7.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw7\1081517-hw7\Debug\1081517-hw7.exe

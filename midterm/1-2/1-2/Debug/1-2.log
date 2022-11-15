@@ -1,0 +1,8 @@
+﻿  Midterm Exam 1-2.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(91,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(99,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(101,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(136,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(127): warning C4715: 'string::insert': not all control paths return a value
+C:\Users\joann\Desktop\林基成作業\108-2\midterm\String - 1081517 - Mid 1.h(141): warning C4715: 'string::erase': not all control paths return a value
+  1-2.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\midterm\1-2\Debug\1-2.exe

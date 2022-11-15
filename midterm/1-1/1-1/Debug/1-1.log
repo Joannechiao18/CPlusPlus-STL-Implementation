@@ -1,0 +1,16 @@
+﻿  Midterm Exam 1-1.cpp
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(154,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(147): message : while compiling class template member function 'int *vector<int>::erase(const int *)'
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Midterm Exam 1-1.cpp(186): message : see reference to function template instantiation 'int *vector<int>::erase(const int *)' being compiled
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Midterm Exam 1-1.cpp(62): message : see reference to class template instantiation 'vector<int>' being compiled
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(108,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(104): message : while compiling class template member function 'int *vector<int>::insert(const int *,const int &)'
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Midterm Exam 1-1.cpp(85): message : see reference to function template instantiation 'int *vector<int>::insert(const int *,const int &)' being compiled
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(117,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(119,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(85,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(78): message : while compiling class template member function 'vector<int>::vector(const vector<int> &)'
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Midterm Exam 1-1.cpp(89): message : see reference to function template instantiation 'vector<int>::vector(const vector<int> &)' being compiled
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(141): warning C4715: 'vector<int>::insert': not all control paths return a value
+C:\Users\joann\Desktop\林基成程設\108-2\midterm\Vector-1081517-Mid - 1.h(160): warning C4715: 'vector<int>::erase': not all control paths return a value
+  1-1.vcxproj -> C:\Users\joann\Desktop\林基成程設\108-2\midterm\1-1\Debug\1-1.exe

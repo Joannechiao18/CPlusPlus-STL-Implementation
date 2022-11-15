@@ -1,0 +1,15 @@
+﻿  String - 1081517 - hw2.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(22,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(23,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(28,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(104,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(109,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(240,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(247,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(248,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(268,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw2\String - 1081517 - hw2.cpp(270,32): warning C4018: '<': signed/unsigned mismatch
+  1081517-hw2.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw2\1081517-hw2\Debug\1081517-hw2.exe

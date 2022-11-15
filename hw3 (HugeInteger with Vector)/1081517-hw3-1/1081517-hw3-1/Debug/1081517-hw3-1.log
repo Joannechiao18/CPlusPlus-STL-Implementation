@@ -1,0 +1,8 @@
+﻿  Vector - 1081517 - hw3.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(98,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(104,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(105,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\1081517-hw3-1\Vector - 1081517 - hw3.cpp(117,27): warning C4018: '<': signed/unsigned mismatch
+  1081517-hw3-1.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw3\1081517-hw3-1\Debug\1081517-hw3-1.exe

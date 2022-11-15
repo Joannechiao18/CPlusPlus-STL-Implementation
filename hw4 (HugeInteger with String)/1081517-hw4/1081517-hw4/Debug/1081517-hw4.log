@@ -1,0 +1,17 @@
+﻿  HugeInteger - 1081517 - hw4.cpp
+  String - 1081517 - hw4.cpp
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(23,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(24,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(29,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(85,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(87,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(277,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(281,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(282,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(293,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joann\Desktop\林基成作業\108-2\hw4\String - 1081517 - hw4.cpp(320,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  1081517-hw4.vcxproj -> C:\Users\joann\Desktop\林基成作業\108-2\hw4\1081517-hw4\Debug\1081517-hw4.exe
