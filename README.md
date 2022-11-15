@@ -8,9 +8,10 @@ These are the implementations from scratch for the data structures/containers in
 ## Getting Started:
 ### Materials Overview 
 1. For every container, there will be a `.pptx` and a `.docx` file for explaination. 
-2. The `.h` files are the axiliary header for the corresponding `.cpp` files.
-3. My implementation for the containers are at the `.sln` file inside the `1081517-hwX` folders. 
-4. There will also be an empty `.cpp` file, e.g. ***Assignment 1.cpp*** for your own practice. 
+2. Those directories that denote `HugeInteger`, e.g. ***HugeInteger with Vector*** are the HugeInteger arithmetic operations using the corresponding container.
+3. The `.h` files are the axiliary header for the corresponding `.cpp` files.
+4. My implementation for the containers are at the `.sln` file inside the `1081517-hwX` folders. 
+5. There will also be an empty `.cpp` file, e.g. ***Assignment 1.cpp*** for your own practice. 
 
 
 ### Usage - for Visual Studio
