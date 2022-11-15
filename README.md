@@ -2,10 +2,8 @@
 
 ![](https://img.shields.io/badge/C++-17-success)
 
-These are the implementations from scratch for the data structures/containers in the C++ Standard Template Library (STL). 
-
 ## Introduction 
-I implemented some of the containers and their member functions from scratch for the C++ STL containers, which can be found [here](https://cplusplus.com/reference/stl/).
+These are the implementations from scratch for the data structures/containers in the C++ Standard Template Library (STL), which can be found [here](https://cplusplus.com/reference/stl/). In addition, I also performed HugeInteger arithmetic operations using the containers I implemented. 
 
 ## Getting Started:
 ### Materials Overview 
