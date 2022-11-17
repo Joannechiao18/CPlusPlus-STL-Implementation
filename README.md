@@ -6,7 +6,7 @@
 These are the implementations from scratch for the data structures/containers in the C++ Standard Template Library (STL), which can be found [here](https://cplusplus.com/reference/stl/). In addition, I also performed HugeInteger arithmetic operations using the containers I implemented. 
 
 ##  Getting Started:
-### Materials Overview 
+#### Materials Overview 
 1. For every container, there will be a `.pptx` and a `.docx` file for explaination. 
 2. Those directories that denote `HugeInteger`, e.g. ***HugeInteger with Vector*** are the HugeInteger arithmetic operations using the corresponding container.
 3. The `.h` files are the axiliary header for the corresponding `.cpp` files.
