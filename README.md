@@ -5,7 +5,7 @@
 ## Introduction 
 These are the implementations from scratch for the data structures/containers in the C++ Standard Template Library (STL), which can be found [here](https://cplusplus.com/reference/stl/). In addition, I also performed HugeInteger arithmetic operations using the containers I implemented. 
 
-## Getting Started:
+##  Getting Started:
 ### Materials Overview 
 1. For every container, there will be a `.pptx` and a `.docx` file for explaination. 
 2. Those directories that denote `HugeInteger`, e.g. ***HugeInteger with Vector*** are the HugeInteger arithmetic operations using the corresponding container.
@@ -14,7 +14,7 @@ These are the implementations from scratch for the data structures/containers in
 5. There will also be an empty `.cpp` file, e.g. ***Assignment 1.cpp*** for your own practice. 
 
 
-### Usage - for Visual Studio
+## 🔨 Usage - for Visual Studio
 1. Clone this github repo. 
 ```
 git clone https://github.com/Joannechiao18/CPlusPlus-STL-Implementation.git
